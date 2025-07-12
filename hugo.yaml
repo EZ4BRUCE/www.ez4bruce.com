@@ -32,6 +32,7 @@ params:
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
+  ShowBreadCrumbs: true
   disableThemeToggle: true
   ShowShareButtons: false
   ShowPostNavLinks: true
@@ -56,6 +57,7 @@ params:
 
   # profile-mode
   profileMode:
+    showToc: true
     enabled: true # needs to be explicitly set
     title: 布鲁斯猫
     subtitle: "坚持不懈"
