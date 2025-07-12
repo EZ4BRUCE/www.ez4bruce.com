@@ -22,19 +22,7 @@ draft: false
 #     appendFilePath: true # to append file path to Edit link
 
 # 固定设置
-hasCJKLanguage: true
-showToc: true
-TocSide: 'left'  # or 'right'
-TocOpen: true
-hidemeta: false
-comments: false
-canonicalURL: "https://canonical.url/to/page"
-disableShare: false
-hideSummary: false
-searchHidden: false	# 是否要被搜索到
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
+
 ---
 
 

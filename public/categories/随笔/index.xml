@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>随笔 on EZ4BRUCE&#39;s Blog</title>
-    <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
+    <link>https://www.ez4bruce.com/categories/%E9%9A%8F%E7%AC%94/</link>
     <description>Recent content in 随笔 on EZ4BRUCE&#39;s Blog</description>
     <image>
       <title>EZ4BRUCE&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 10 Mar 2022 10:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ez4bruce.com/categories/%E9%9A%8F%E7%AC%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>0.Beginning</title>
-      <link>http://localhost:1313/posts/0.beginning/</link>
+      <link>https://www.ez4bruce.com/posts/0.beginning/</link>
       <pubDate>Thu, 10 Mar 2022 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/0.beginning/</guid>
+      <guid>https://www.ez4bruce.com/posts/0.beginning/</guid>
       <description>简单的自我介绍</description>
     </item>
   </channel>

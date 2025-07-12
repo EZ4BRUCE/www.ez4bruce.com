@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/1.proxy-settings-on-linux/</loc>
+    <loc>https://www.ez4bruce.com/posts/1.proxy-settings-on-linux/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.ez4bruce.com/categories/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.ez4bruce.com/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kubuntu/</loc>
+    <loc>https://www.ez4bruce.com/tags/kubuntu/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/linux/</loc>
+    <loc>https://www.ez4bruce.com/categories/linux/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https://www.ez4bruce.com/tags/linux/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.ez4bruce.com/posts/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.ez4bruce.com/tags/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://www.ez4bruce.com/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <loc>https://www.ez4bruce.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</loc>
+    <loc>https://www.ez4bruce.com/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2022-03-19T14:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/0.beginning/</loc>
+    <loc>https://www.ez4bruce.com/posts/0.beginning/</loc>
     <lastmod>2022-03-10T10:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bruce/</loc>
+    <loc>https://www.ez4bruce.com/tags/bruce/</loc>
     <lastmod>2022-03-10T10:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://www.ez4bruce.com/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-03-10T10:30:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://www.ez4bruce.com/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://www.ez4bruce.com/search/</loc>
   </url>
 </urlset>

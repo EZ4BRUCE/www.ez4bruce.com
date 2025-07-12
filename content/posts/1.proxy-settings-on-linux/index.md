@@ -28,7 +28,6 @@ showToc: true
 TocSide: 'left'  # or 'right'
 TocOpen: true
 hidemeta: false
-comments: false
 canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 hideSummary: false

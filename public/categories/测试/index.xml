@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>测试 on EZ4BRUCE&#39;s Blog</title>
+    <link>http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on EZ4BRUCE&#39;s Blog</description>
+    <image>
+      <title>EZ4BRUCE&#39;s Blog</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 01 Jan 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试评论功能</title>
+      <link>http://localhost:1313/posts/test-comments/</link>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test-comments/</guid>
+      <description>测试 Disqus 评论功能是否正常工作</description>
+    </item>
+  </channel>
+</rss>
