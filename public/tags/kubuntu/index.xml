@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kubuntu on EZ4BRUCE&#39;s Blog</title>
-    <link>https://www.ez4bruce.com/tags/kubuntu/</link>
+    <link>http://localhost:38191/tags/kubuntu/</link>
     <description>Recent content in Kubuntu on EZ4BRUCE&#39;s Blog</description>
     <image>
       <title>EZ4BRUCE&#39;s Blog</title>
-      <url>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:38191/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:38191/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 19 Mar 2022 14:30:00 +0800</lastBuildDate>
-    <atom:link href="https://www.ez4bruce.com/tags/kubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:38191/tags/kubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.放眼看世界——详细且实用的linux代理设置</title>
-      <link>https://www.ez4bruce.com/posts/1.proxy-settings-on-linux/</link>
+      <link>http://localhost:38191/posts/1.proxy-settings-on-linux/</link>
       <pubDate>Sat, 19 Mar 2022 14:30:00 +0800</pubDate>
-      <guid>https://www.ez4bruce.com/posts/1.proxy-settings-on-linux/</guid>
+      <guid>http://localhost:38191/posts/1.proxy-settings-on-linux/</guid>
       <description>CFW / TUN Mode / proxychains / privoxy</description>
     </item>
   </channel>

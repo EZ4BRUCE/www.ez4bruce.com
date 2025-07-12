@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.ez4bruce.com/sitemap.xml
+Sitemap: http://localhost:38191/sitemap.xml
