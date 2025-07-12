@@ -1,4 +1,4 @@
-baseURL: 'https://ez4bruce.github.io/'
+baseURL: https://www.ez4bruce.com/
 theme: ["PaperMod"]
 languageCode: "zh-CN"
 title: "EZ4BRUCE's Blog"
