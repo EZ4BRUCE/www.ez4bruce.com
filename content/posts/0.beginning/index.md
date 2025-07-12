@@ -13,7 +13,7 @@ author: "布鲁斯猫"
 hasCJKLanguage: true
 cover:
     image: "assets/682813.jpg" # image path/url
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 draft: false
 # editPost:
@@ -22,7 +22,17 @@ draft: false
 #     appendFilePath: true # to append file path to Edit link
 
 # 固定设置
-
+hasCJKLanguage: true
+showToc: true
+TocSide: 'left'  # or 'right'
+TocOpen: true
+hidemeta: false
+disableShare: false
+hideSummary: false
+searchHidden: false	# 是否要被搜索到
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
 ---
 
 

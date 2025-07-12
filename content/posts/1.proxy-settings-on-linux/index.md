@@ -14,7 +14,7 @@ cover:
     image: "assets/nasa-Q1p7bh3SHj8-unsplash.jpg" # image path/url
     # alt: "<alt text>" # alt text
     # caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 
 # editPost:
@@ -28,7 +28,6 @@ showToc: true
 TocSide: 'left'  # or 'right'
 TocOpen: true
 hidemeta: false
-canonicalURL: "https://canonical.url/to/page"
 disableShare: false
 hideSummary: false
 searchHidden: false	# 是否要被搜索到
