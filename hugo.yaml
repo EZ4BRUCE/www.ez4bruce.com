@@ -13,10 +13,7 @@ buildExpired: false
 
 services:
   disqus:
-    enable: true
     shortname: ez4bruce-1
-    count: true
-
 caches:
   images:
     dir: :cacheDir/images
@@ -37,7 +34,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
