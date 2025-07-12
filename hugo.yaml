@@ -2,6 +2,8 @@ baseURL: https://www.ez4bruce.com/
 theme: ["PaperMod"]
 languageCode: "zh-CN"
 title: "EZ4BRUCE's Blog"
+canonifyURLs: true
+relativeURLs: false
 pagination:
   pagerSize: 10
 
