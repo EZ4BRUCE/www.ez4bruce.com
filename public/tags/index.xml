@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on EZ4BRUCE&#39;s Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.ez4bruce.com/tags/</link>
     <description>Recent content in Tags on EZ4BRUCE&#39;s Blog</description>
     <image>
       <title>EZ4BRUCE&#39;s Blog</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.ez4bruce.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.0</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sat, 19 Mar 2022 14:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ez4bruce.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kubuntu</title>
-      <link>http://localhost:1313/tags/kubuntu/</link>
+      <link>https://www.ez4bruce.com/tags/kubuntu/</link>
       <pubDate>Sat, 19 Mar 2022 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/kubuntu/</guid>
+      <guid>https://www.ez4bruce.com/tags/kubuntu/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:1313/tags/linux/</link>
+      <link>https://www.ez4bruce.com/tags/linux/</link>
       <pubDate>Sat, 19 Mar 2022 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/linux/</guid>
+      <guid>https://www.ez4bruce.com/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>科学上网</title>
-      <link>http://localhost:1313/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
+      <link>https://www.ez4bruce.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</link>
       <pubDate>Sat, 19 Mar 2022 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
+      <guid>https://www.ez4bruce.com/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</guid>
       <description></description>
     </item>
     <item>
       <title>网络相关</title>
-      <link>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</link>
+      <link>https://www.ez4bruce.com/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</link>
       <pubDate>Sat, 19 Mar 2022 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</guid>
+      <guid>https://www.ez4bruce.com/tags/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/</guid>
       <description></description>
     </item>
     <item>
       <title>Bruce</title>
-      <link>http://localhost:1313/tags/bruce/</link>
+      <link>https://www.ez4bruce.com/tags/bruce/</link>
       <pubDate>Thu, 10 Mar 2022 10:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/tags/bruce/</guid>
+      <guid>https://www.ez4bruce.com/tags/bruce/</guid>
       <description></description>
     </item>
   </channel>
